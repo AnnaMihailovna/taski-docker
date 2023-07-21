@@ -51,6 +51,7 @@ jobs:
     name: Push Docker image to DockerHub
     runs-on: ubuntu-latest
     needs: tests
+
     steps:
       - name: Check out the repo
         uses: actions/checkout@v3
