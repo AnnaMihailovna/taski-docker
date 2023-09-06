@@ -77,8 +77,7 @@ Workflow написан так, что каждый git push в ветку main 
 Для отслеживания выполнения workflow в GitHub Actions, можно подключить к работе Telegram-бота.
 
 ### Развёрнутый проект:
-http://tasking.sytes.net
-(приостановлен)
+https://tasking.sytes.net
 
 ### Над проектом работала (бэкенда и деплой)
 [AnnaMihailovna](https://github.com/AnnaMihailovna/)
